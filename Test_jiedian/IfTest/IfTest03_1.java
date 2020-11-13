@@ -11,7 +11,7 @@
 
 */
 
-public class IfTest{
+public class IfTest03_1{
 	
 	public static void main(String[] args){
 		
@@ -21,15 +21,6 @@ public class IfTest{
 		
 		//接受用户键盘输入
 		java.util.Scanner s=new java.util.Scanner(System.in);
-		System.out.print("输入字符串next()：");
-		String userInputContent1=s.next();
-		System.out.println("字符串："+userInputContent1);
-		
-		System.out.print("输入字符串nextLine()：");
-		String userInputContent2=s.nextLine();
-		System.out.println("字符串："+userInputContent2);
-		
-		
 		System.out.print("请选择今天是否是双休日：");
 		int date=s.nextInt();
 		//判定日期
