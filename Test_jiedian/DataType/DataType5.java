@@ -32,7 +32,7 @@ public class DataType5{
 		/*
 		综合DataType4文件，可以得出以下结论：
 		当一个整数型字面值没有超出byte、short、char的取值范围，这个字面值
-		可以直接赋值给byte、short、char类型的变量。SUN公司允许这种机制，目的
+		可以直接赋值给"byte、short、char"类型的变量。SUN公司允许这种机制，目的
 		是为了方便程序员编写程序。
 		如果超出取值范围，就要手动强转，精度损失自己承担
 		*/
