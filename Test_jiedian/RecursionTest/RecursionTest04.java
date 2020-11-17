@@ -26,34 +26,21 @@ public class RecursionTest04{
 }
 */
 
+
+
 public class RecursionTest04{
-	
 	public static void main(String[] args){
-		
-		int n=5;
-		int retValue=method(n);
-		System.out.println(retValue);
-		
+		int a=10;
+		int result=getresult(5);
+		System.out.println(result);
 	}
-	
-	public static int method(int n){
-		
+	public static int getresult(int n){
 		if(n==1){
 			return 1;
 		}
-		
-		return n*method(n-1);
-		
-		
+		return n*getresult(n-1);
 	}
 }
-
-
-
-
-
-
-
 
 
 
