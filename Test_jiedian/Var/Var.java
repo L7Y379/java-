@@ -16,4 +16,5 @@ public class Var{
 		System.out.println(z);
 		
 	}
+	
 }
