@@ -49,10 +49,16 @@ public class ExtendsTest {
         String s=et.toString();//这里编译通过，说明确实继承Object类
         System.out.println(s);//com.bjpowernode.javase.test012.ExtendsTest@1f32e575
 
+
+
         CreditAccount act=new CreditAccount();
+        System.out.println(act.getActno());
         act.setActno("act-001");
         act.setBalance(-1000.0);
         act.setCredit(0.99);
+
+        Account ac =new Account();
+        System.out.println(ac.getActno());
 
         System.out.println(act.getActno()+","+act.getBalance()+","+act.getCredit());
 
