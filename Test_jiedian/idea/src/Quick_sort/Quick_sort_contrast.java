@@ -29,6 +29,8 @@ public class Quick_sort_contrast {
      * @param arr
      * @param left  左指针
      * @param right 右指针
+     *
+     * quickSort1为三者取中法快速排序
      */
     public static void quickSort1(int[] arr, int left, int right) {
         if (left < right) {
@@ -60,6 +62,13 @@ public class Quick_sort_contrast {
 
     }
 
+    /**
+     * @param arr
+     * @param left  左指针
+     * @param right 右指针
+     *
+     * quickSort2为取第一个元素为枢纽快速排序
+     */
     public static void quicksort2(int[] arr,int left,int right){
         if (right <= left) return;
         int i = left;

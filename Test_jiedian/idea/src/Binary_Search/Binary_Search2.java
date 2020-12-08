@@ -1,5 +1,8 @@
 package Binary_Search;
-
+/**
+ * 二分搜索算法
+ * 若搜索到这个元素，则返回数组的索引下标；否则返回小于x的最大元素位置i 和大于x的最小元素位置 j
+ */
 import Quick_sort.Quick_sort1;
 
 import java.util.Arrays;
