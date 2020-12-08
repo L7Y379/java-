@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdeab337-74d8-4651-b8a9-cfa6160cde88" name="Default Changelist" comment="Update_BackTrack回溯算法，排列生成">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/BackTrack/backtrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/Binary_Search/Binary_Search1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/Binary_Search/Binary_Search2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/Greedy_algorithm/Greedy_algorithm1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/Merge_Sort/Merge_Sort_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/Quick_sort/Quick_sort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/Quick_sort/Quick_sort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/Quick_sort/Quick_sort_contrast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/checkerboard/checkerboard_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/StaticTest/StaticTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/StaticTest2/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/StaticTest2/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/StaticTest2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test1/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test1/CustomerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test1/day10-this本质.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test2/ThisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test3/ThisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test4/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test4/UserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test5/Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test5/DateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test6/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test7/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test8/Chinese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test8/ChineseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test9/Chinese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/This_Test9/ChineseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/day10-this本质.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/day10-国籍使用静态变量.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/day10-国籍声明为实例变量.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/day11-多态.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest/CreditAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest/ExtendsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest/ExtendsTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest2/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest2/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest2/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest2/OverrideTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest2/Yingwu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest3/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest3/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest3/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest3/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest3/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest4/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest4/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest4/Master.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest4/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest4/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest4/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/Chinese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/FinalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/FinalTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/FinalTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/FinalTest04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/Source.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest5/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/extendTest6/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/modifierTest/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/modifierTest/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/modifierTest2/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/modifierTest2/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/modifierTest2/ExerciseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/modifierTest2/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_this_static_extend/modifierTest2/UserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user/UserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user2/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user2/UserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user3/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user3/ConstructorTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user3/ConstructorTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user3/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user4/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user4/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user4/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user4/day09-参数传递-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/test_user4/day09-参数传递-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BackTrack/backtrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Search/Binary_Search1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Search/Binary_Search2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greedy_algorithm/Greedy_algorithm1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Merge_Sort/Merge_Sort_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quick_sort/Quick_sort1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quick_sort/Quick_sort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quick_sort/Quick_sort_contrast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkerboard/checkerboard_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/StaticTest/StaticTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/StaticTest2/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/StaticTest2/StaticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/StaticTest2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test1/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test1/CustomerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test1/day10-this本质.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test2/ThisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test3/ThisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test4/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test4/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test5/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test5/DateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test6/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test7/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test8/Chinese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test8/ChineseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test9/Chinese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/This_Test9/ChineseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/day10-this本质.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/day10-国籍使用静态变量.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/day10-国籍声明为实例变量.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/day11-多态.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest/CreditAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest/ExtendsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest/ExtendsTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest2/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest2/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest2/OverrideTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest2/Yingwu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest3/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest3/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest3/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest3/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest3/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest4/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest4/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest4/Master.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest4/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest4/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest4/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/FinalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/FinalTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/FinalTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/FinalTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest5/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/extendTest6/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/modifierTest/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/modifierTest/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/modifierTest2/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/modifierTest2/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/modifierTest2/ExerciseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/modifierTest2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_this_static_extend/modifierTest2/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user2/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user2/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user3/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user3/ConstructorTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user3/ConstructorTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user3/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user4/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user4/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user4/day09-参数传递-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_user4/day09-参数传递-2.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kdCRAUkTkVmfdfE1lmnz4EYcal" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test_this" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my bad\java\Test\Test_jiedian\idea\src\test_this_static_extend\modifierTest2" />
+      <recent name="D:\my bad\java\Test\Test_jiedian\idea\src\test_this_static_extend\modifierTest" />
+      <recent name="D:\my bad\java\Test\Test_jiedian\idea\src\test_this_static_extend\extendTest5" />
+      <recent name="D:\my bad\java\Test\Test_jiedian\idea\src\test_this_static_extend" />
+      <recent name="D:\my bad\java\Test\Test_jiedian\idea\src\test_this" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.backtrack">
+    <configuration name="ExerciseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_this_static_extend.modifierTest2.ExerciseTest" />
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_this_static_extend.modifierTest2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_this_static_extend.extendTest5.FinalTest" />
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_this_static_extend.extendTest5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greedy_algorithm1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy_algorithm.Greedy_algorithm1" />
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy_algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_this_static_extend.extendTest6.Test" />
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_this_static_extend.extendTest6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backtrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTrack.backtrack" />
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackTrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.backtrack" />
+        <item itemvalue="Application.Greedy_algorithm1" />
+        <item itemvalue="Application.ExerciseTest" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.FinalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdeab337-74d8-4651-b8a9-cfa6160cde88" name="Default Changelist" comment="" />
+      <created>1606021072003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606021072003</updated>
+      <workItem from="1606021073073" duration="6645000" />
+      <workItem from="1606030135541" duration="6817000" />
+      <workItem from="1606062453122" duration="1423000" />
+      <workItem from="1606063998398" duration="724000" />
+      <workItem from="1606487441695" duration="8388000" />
+      <workItem from="1606497744087" duration="1371000" />
+      <workItem from="1606522361561" duration="12432000" />
+      <workItem from="1606698606858" duration="8650000" />
+      <workItem from="1606734307395" duration="1715000" />
+      <workItem from="1606814651770" duration="4370000" />
+      <workItem from="1606980640007" duration="1597000" />
+      <workItem from="1606998720945" duration="3180000" />
+      <workItem from="1607408066708" duration="65000" />
+      <workItem from="1607408621608" duration="64000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update_ThisTest">
+      <created>1606038636704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606038636704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update_ThisTest">
+      <created>1606064624267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606064624267</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update_Quick_sort">
+      <created>1606494251053</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606494251053</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update_Binary_Search">
+      <created>1606527574207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606527574207</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update_checkerboard，棋盘覆盖问题">
+      <created>1606530942714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606530942714</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update_Merge_Sort，二路归并排序算法">
+      <created>1606533994657</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606533994657</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update">
+      <created>1606536892684</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606536892684</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update">
+      <created>1606816312857</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606816312857</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update_Greedy_algorithm贪心算法">
+      <created>1606816390302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606816390302</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update_BackTrack回溯算法，排列生成">
+      <created>1606982209022</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606982209022</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update_ThisTest" />
+    <MESSAGE value="Update_Quick_sort" />
+    <MESSAGE value="Update_Binary_Search" />
+    <MESSAGE value="Update_checkerboard，棋盘覆盖问题" />
+    <MESSAGE value="Update_Merge_Sort，二路归并排序算法" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update_Greedy_algorithm贪心算法" />
+    <MESSAGE value="Update_BackTrack回溯算法，排列生成" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update_BackTrack回溯算法，排列生成" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="797" y="94" key="#Project_Structure" timestamp="1606021122805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="797" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1606021122805" />
+    <state x="752" y="378" key="#Scopes" timestamp="1606705556090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="378" key="#Scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1606705556090" />
+    <state x="1048" y="296" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1606035516428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1048" y="296" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606035516428" />
+    <state x="1097" y="426" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1606035517808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1097" y="426" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1606035517808" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606499080936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606499080936" />
+    <state x="929" y="288" key="FileChooserDialogImpl" timestamp="1607408683755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="929" y="288" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607408683755" />
+    <state width="1145" height="218" key="GridCell.Tab.0.bottom" timestamp="1606982238090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1145" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606982238090" />
+    <state width="1145" height="218" key="GridCell.Tab.0.center" timestamp="1606982238090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1145" height="218" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606982238090" />
+    <state width="1145" height="218" key="GridCell.Tab.0.left" timestamp="1606982238089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1145" height="218" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606982238089" />
+    <state width="1145" height="218" key="GridCell.Tab.0.right" timestamp="1606982238090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1145" height="218" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606982238090" />
+    <state width="1145" height="344" key="GridCell.Tab.1.bottom" timestamp="1606836442482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1145" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606836442482" />
+    <state width="1145" height="344" key="GridCell.Tab.1.center" timestamp="1606836442482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1145" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606836442482" />
+    <state width="1145" height="344" key="GridCell.Tab.1.left" timestamp="1606836442482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1145" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606836442482" />
+    <state width="1145" height="344" key="GridCell.Tab.1.right" timestamp="1606836442482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1145" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606836442482" />
+    <state x="331" y="210" key="SettingsEditor" timestamp="1606704800444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="331" y="210" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606704800444" />
+    <state x="909" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606982221913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="909" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606982221913" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1606528953905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606528953905" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606526668038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606526668038" />
+  </component>
+</project>
