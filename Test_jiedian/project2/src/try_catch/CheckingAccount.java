@@ -11,8 +11,7 @@ public class CheckingAccount
     {
         this.number = number;
     }
-    public void deposit(double amount)
-    {
+    public void deposit(double amount) {
         balance += amount;
     }
     public void withdraw(double amount) throws
