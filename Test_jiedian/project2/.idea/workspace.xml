@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0f3cfae-f94a-4e34-bf3b-13a33ba990d7" name="Default Changelist" comment="ArrayTest">
-      <change afterPath="$PROJECT_DIR$/src/BufferedReader/BRRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e0f3cfae-f94a-4e34-bf3b-13a33ba990d7" name="Default Changelist" comment="foreach">
+      <change afterPath="$PROJECT_DIR$/src/BufferedReader/fileStreamTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayOf/ArrayOfTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOfTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayOf/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayOf/foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foreach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project2/ArrayOfTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project2/ArrayOfTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project2/TestArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project2/TestArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,14 +60,7 @@
       <recent name="D:\my bad\java\Test\Test_jiedian\project2\BufferedReader" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BRReadLines">
-    <configuration name="ArrayOfTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayOfTest1" />
-      <module name="project2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.fileStreamTest2">
     <configuration name="BRRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BufferedReader.BRRead" />
       <module name="project2" />
@@ -107,9 +94,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="foreach" />
+    <configuration name="fileStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BufferedReader.fileStreamTest" />
       <module name="project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BufferedReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fileStreamTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BufferedReader.fileStreamTest2" />
+      <module name="project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BufferedReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fileStreamTest2" />
+        <item itemvalue="Application.fileStreamTest" />
         <item itemvalue="Application.BRReadLines" />
         <item itemvalue="Application.BRRead" />
         <item itemvalue="Application.TestArray" />
-        <item itemvalue="Application.foreach" />
-        <item itemvalue="Application.ArrayOfTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607409610823</updated>
       <workItem from="1607409613155" duration="653000" />
-      <workItem from="1607503612477" duration="772000" />
+      <workItem from="1607503612477" duration="1335000" />
     </task>
     <task id="LOCAL-00001" summary="ArrayTest">
       <created>1607410147190</created>
@@ -155,7 +161,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607410147190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ArrayTest">
+      <created>1607504513557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607504513557</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BufferedReader">
+      <created>1607504553287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607504553287</updated>
+    </task>
+    <task id="LOCAL-00004" summary="foreach">
+      <created>1607504578482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607504578482</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,32 +202,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ArrayTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayTest" />
+    <MESSAGE value="BufferedReader" />
+    <MESSAGE value="foreach" />
+    <option name="LAST_COMMIT_MESSAGE" value="foreach" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1264" y="276" key="FileChooserDialogImpl" timestamp="1607504165437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1264" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607504165437" />
-    <state width="814" height="279" key="GridCell.Tab.0.bottom" timestamp="1607504286801">
+    <state width="814" height="279" key="GridCell.Tab.0.bottom" timestamp="1607504878486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="814" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607504286801" />
-    <state width="814" height="279" key="GridCell.Tab.0.center" timestamp="1607504286801">
+    <state width="814" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607504878486" />
+    <state width="814" height="279" key="GridCell.Tab.0.center" timestamp="1607504878486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="814" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607504286801" />
-    <state width="814" height="279" key="GridCell.Tab.0.left" timestamp="1607504286801">
+    <state width="814" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607504878486" />
+    <state width="814" height="279" key="GridCell.Tab.0.left" timestamp="1607504878486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="814" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607504286801" />
-    <state width="814" height="279" key="GridCell.Tab.0.right" timestamp="1607504286801">
+    <state width="814" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607504878486" />
+    <state width="814" height="279" key="GridCell.Tab.0.right" timestamp="1607504878486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="814" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607504286801" />
-    <state x="1076" y="267" key="Vcs.Push.Dialog.v2" timestamp="1607410151791">
+    <state width="814" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607504878486" />
+    <state x="1076" y="267" key="Vcs.Push.Dialog.v2" timestamp="1607504586500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1076" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607410151791" />
+    <state x="1076" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607504586500" />
   </component>
 </project>
